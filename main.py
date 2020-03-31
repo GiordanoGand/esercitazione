@@ -1,0 +1,5 @@
+print("Inserisci un numero")
+x = int(input())
+y = int(input("Inserisci il numero con cui vuoi moltiplicarlo"))
+z = int(x*y)
+print(z)
